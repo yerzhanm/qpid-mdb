@@ -1,0 +1,11 @@
+.gradle/
+.classpath
+.project
+.settings/
+target/
+local/
+
+/*.ids
+/*.ipr
+/*.iws
+*.iml
